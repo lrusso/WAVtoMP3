@@ -1,0 +1,22 @@
+{
+	"name": "WAV to MP3",
+	"short_name": "WAV to MP3",
+	"lang": "en-US",
+	"start_url": "https://lrusso.github.io/WAVtoMP3/WAVtoMP3.htm",
+	"display": "standalone",
+	"orientation": "portrait",
+	"theme_color": "#18222e",
+	"background_color": "#000000",
+	"icons": [
+		{
+			"src": "https://lrusso.github.io/WAVtoMP3/WAVtoMP3FavIcon_192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://lrusso.github.io/WAVtoMP3/WAVtoMP3FavIcon_512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
